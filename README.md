@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67f979e7af6849cc45fc8a0d?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **Kauan-Amancio/Kauan-Amancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
