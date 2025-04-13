@@ -1,5 +1,6 @@
 ## Hi there 👋
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67f979e7af6849cc45fc8a0d?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://app.daily.dev/kauan_amancio"><img src="https://api.daily.dev/devcards/v2/5ZjBvXnjKfkkdCVq8M9p3.png?r=wik" width="356" alt="Kauan Amâncio's Dev Card"/></a>
 <!--
 **Kauan-Amancio/Kauan-Amancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
